@@ -139,6 +139,28 @@ html {
   font-family: "Noto Sans", sans-serif;
 }
 
+/* End the reset css code */
+
 .container {
-   display
+  display
 }
+
+header {
+  height: 148px;
+  background-color: red;
+}
+
+.mini-spoilers {
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.mini-news {
+  flex-basis: 50%;
+  flex-grow: 1;
+  flex-shrink: 1;
+  height: 639px;
+  border: 1px solid black;
+  color: blue;
+}
+
