@@ -234,3 +234,21 @@ h2 {
   color: black;
 }
 /*----------------------------------------8*/
+header {
+  height: 148px;
+  background-color: rgb(59, 54, 54);
+}
+
+.mini-spoilers {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.mini-news {
+  flex-basis: 50%;
+  flex-grow: 1;
+  flex-shrink: 1;
+  height: 639px;
+  border: 1px solid black;
+  color: blue;
+}
