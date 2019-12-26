@@ -251,4 +251,12 @@ header {
   height: 639px;
   border: 1px solid black;
   color: blue;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: repeat(6, 638px);
+}
+
+.mini-news-children {
+  background-color: rgb(200, 200, 200);
+  border: 1px solid black;
 }
