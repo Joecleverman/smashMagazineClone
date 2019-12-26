@@ -357,6 +357,24 @@ h2 {
   position: relative;
 }
 
+.thumbnail-aside {
+  position: absolute;
+  width: 383px;
+  height: 300px;
+  top: 50px;
+  left: 50px;
+  font-size: 25px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.form1-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 592px 664px;
+  grid-gap: 15px;
+}
+
 /*----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      FOOTER
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
