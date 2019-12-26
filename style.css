@@ -261,6 +261,44 @@ header {
   border: 1px solid black;
 }
 
+.more-articles {
+  flex: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 178px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.inclusive-parent {
+  background-color: rgb(100, 100, 100);
+}
+
+.inclusive-components {
+  padding: 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 800px;
+  height: 1110px;
+  margin: 0 auto;
+}
+
+.inclusive-components a, {
+  display: block;
+}
+
+.inclusive-components-child {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.inclusive-components img {
+  flex: 10;
+}
+
 /*------------------*/
 .big {
   grid-column: 2/4;
