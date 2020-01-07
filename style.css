@@ -138,6 +138,10 @@ table {
 html {
   font-family: "Noto Sans", sans-serif;
 }
+.more-articles,
+a {
+  color: black;
+}
 /*-----------------------------------------------------------------------------------------------------
                                                   HEADER
   ----------------------------------------------------------------------------------------------------*/
@@ -262,7 +266,7 @@ header {
   flex-shrink: 1;
   height: 639px;
   border: 1px solid black;
-  color: blue;
+  color: black;
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: repeat(6, 638px);
