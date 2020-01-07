@@ -215,6 +215,11 @@ html {
   text-align: center;
 }
 
+.thumbnail,
+light-grey {
+  background-color: rgb(109, 104, 104);
+}
+
 h2 {
   text-align: center;
   font-size: 35px;
@@ -307,17 +312,17 @@ header {
 }
 
 /*------------------*/
-.big {
+.large {
   grid-column: 2/4;
 }
 
-.big img {
+.large img {
   margin: 15% 36% 0;
   width: 257px;
   height: 290px;
 }
 
-.big h2 {
+.large h2 {
   text-align: center;
   font-size: 35px;
 }
@@ -405,7 +410,7 @@ h2 {
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .footer-container {
-  height: 698px;
+  height: 798px;
 }
 
 .full-width {
@@ -430,5 +435,5 @@ h2 {
   text-decoration: underline;
   color: black;
   font-size: 25px;
-  padding: 0 10px;
+  padding-bottom: 75px;
 }
