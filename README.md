@@ -11,6 +11,8 @@ Read more about the project detailed description from the [Odin website](https:/
 
 ### [Assingment Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
+### [Live link](https://rawcdn.githack.com/Joecleverman/smashMagazineClone/62393a01eebc15aa6286c889b47dff0467f1a7f9/index.html)
+
 # Languages Used
 
 - HTML
