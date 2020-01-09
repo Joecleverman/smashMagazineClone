@@ -328,7 +328,7 @@ header {
 }
 
 .large img {
-  margin: 15% 36% 0;
+  margin: 15% 30% 0;
   width: 257px;
   height: 290px;
 }
@@ -377,7 +377,7 @@ header {
   width: 383px;
   height: 300px;
   top: 50px;
-  left: 50px;
+  margin-left: 0px;
   font-size: 25px;
   font-weight: bolder;
   text-align: center;
@@ -388,6 +388,7 @@ header {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 592px 664px;
   grid-gap: 15px;
+  box-sizing: border-box;
 }
 
 /* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
