@@ -33,4 +33,4 @@ If you are working on adding features, PRs, or bugfixes, this section should hel
 
 - [Josue Abraham](https://github.com/joecleverman)
 
-- [Javier Botero](https://github.com/)
+- [Javier Botero](https://github.com/javierbotero)
